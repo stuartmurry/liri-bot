@@ -1,0 +1,27 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "Language Interpretation and Recognition Interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stuartmurry/liri-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stuartmurry/liri-bot/issues"
+  },
+  "homepage": "https://github.com/stuartmurry/liri-bot#readme",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "node-spotify-api": "^1.0.7",
+    "oauth": "^0.9.15",
+    "request": "^2.85.0",
+    "twitter": "^1.7.1"
+  }
+}
